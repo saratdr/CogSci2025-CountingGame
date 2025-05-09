@@ -1,8 +1,6 @@
 from os.path import dirname, join
 import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
-import numpy as np
 
 CUR_DIR = dirname(__file__)
 DATA_DIR = join(CUR_DIR, '../data')

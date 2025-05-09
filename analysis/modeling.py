@@ -6,7 +6,6 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import accuracy_score
 
-
 CUR_DIR = dirname(__file__)
 DATA_DIR = join(CUR_DIR, '../data')
 
