@@ -14,7 +14,7 @@ CogSci2025-CountingGame/
 │
 └─── data/    # Contains data used for analysis
 │   ├─── full_data.csv    # Dataset obtained from the condutcted study
-│   └───  trial_info.csv    # Descriptions of presented trials in the conducted study
+│   └─── trial_info.csv    # Descriptions of presented trials in the conducted study
 │
 └─── LICENSE    # MIT License file
 └─── README.md    # This file
